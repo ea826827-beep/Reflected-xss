@@ -1,4 +1,9 @@
-Screenshot 1 – DVWA Reflected XSS Page The Reflected XSS module in DVWA was opened in Browser 1. A JavaScript test payload was entered into the vulnerable input field while the application was running on localhost:8080 with the security level set to Low.
+## Screenshot 1
+
+![Screenshot 1](
+Screenshot_20260725_124505.jpg)
+Screenshot_20260725_124505.jpg
+DVWA Reflected XSS Page The Reflected XSS module in DVWA was opened in Browser 1. A JavaScript test payload was entered into the vulnerable input field while the application was running on localhost:8080 with the security level set to Low.
 
 Screenshot 2 – Terminal (Netcat Listener) The terminal was configured to monitor incoming HTTP requests using Netcat on port 4444. Apache was restarted successfully, and the listener was started before executing the XSS payload. Commands Used sudo service apache2 restart nc -lvp 4444
 
