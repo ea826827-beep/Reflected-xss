@@ -3,7 +3,7 @@
 ![Screenshot 1](
 Screenshot_20260725_124505.jpg)
 DVWA Reflected XSS Page The Reflected XSS module in DVWA was opened in Browser 1. A JavaScript test payload was entered into the vulnerable input field while the application was running on localhost:8080 with the security level set to Low.
-## Screenshot 1
+## Screenshot 2
 
 ![Screenshot 2](Screenshot_20260725_122905.jpg
 )
